@@ -36,7 +36,7 @@
         <dependency>
             <groupId>org.ejml</groupId>
             <artifactId>ejml-all</artifactId>
-            <version>0.38</version>
+            <version>0.40</version>
         </dependency>
     </dependencies>
 
